@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background:"C:\Users\24128\Desktop\新建文件夹\背景.jpg";
+    color: #333;
+}
+
+header {
+    background: #005792;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    background: #333;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    color:#f4f4f4;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+nav ul li a:hover {
+    background: #ffffff;
+    color: #005792;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+}
+
+footer {
+    background: #333;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 20px;
+}
